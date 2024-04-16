@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ibragimov Yusufbek/AndroidStudioProjects/CardScanLib/app/src/main/res/layout/activity_main.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/Ibragimov Yusufbek/AndroidStudioProjects/CardScanLib/cardscan-base/src/main/res/drawable-mdpi/bg_circle_white_flash.xml" value="0.222" />
+        <entry key="..\:/Users/Ibragimov Yusufbek/AndroidStudioProjects/CardScanLib/cardscan-base/src/main/res/layout/bouncer_private_activity_scan_card.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
